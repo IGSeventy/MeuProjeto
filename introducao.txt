@@ -1,3 +1,2 @@
 O projeto tem por objetivo aprender a usar o git para versionamento de código
 Será adicionado uma "feature nav-bar";
-blabla
