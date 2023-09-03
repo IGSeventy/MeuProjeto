@@ -1,0 +1,1 @@
+O projeto tem por objetivo aprender a usar o git para versionamento de código
